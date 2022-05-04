@@ -1,2 +1,1 @@
-branch2
-line2
+line1
